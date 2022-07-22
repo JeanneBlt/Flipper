@@ -1,0 +1,102 @@
+﻿'Projet Flipper.exe' (Win32) : Chargé 'C:\Users\techn\OneDrive\Documents\NAS\ESIEE\Cours\C++\Projet Flipper\Debug\Projet Flipper.exe'. Les symboles ont été chargés.
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\opengl32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\advapi32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\sechost.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\user32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\win32u.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\gdi32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\combase.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Users\techn\OneDrive\Documents\NAS\ESIEE\Cours\C++\Projet Flipper\glut32.dll'. Le module a été généré sans symboles.
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\glu32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\winmm.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\imm32.dll'. 
+Le thread 0xdb4 s'est arrêté avec le code 0 (0x0).
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\uxtheme.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\AudioDevProps2.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ole32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ws2_32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\shlwapi.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\shell32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\NahimicOSD.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\ProductInfo.Dll'. 
+Error 20 (this feature has not been implemented yet) in function AVolute::GetProductInfoT::<lambda_c1c69609f385576658f8def701163fcd>::operator ()
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msctf.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\oleaut32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\windows.storage.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\wldp.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\SHCore.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_7d9521d2a48781c1\nvdlist.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\version.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\clbcatq.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\AppXDeploymentClient.dll'. 
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\SysWOW64\AppXDeploymentClient.dll'
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\ig9icd32.dll'. 
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\ig9icd32.dll'
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\ig9icd32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\dwmapi.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\dxgi.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igdml32.dll'. 
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\SysWOW64\version.dll'
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_7d9521d2a48781c1\nvdlist.dll'
+Le thread 0x2380 s'est arrêté avec le code 0 (0x0).
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'. 
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_7d9521d2a48781c1\nvdlist.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\version.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igdgmm32.dll'. 
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\SysWOW64\version.dll'
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_7d9521d2a48781c1\nvdlist.dll'
+Le thread 0x830c s'est arrêté avec le code 0 (0x0).
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\version.dll'. 
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\SysWOW64\version.dll'
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igc32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\powrprof.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\umpdc.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\TextInputFramework.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\CoreUIComponents.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\CoreMessaging.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ntmarta.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\WinTypes.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\WinTypes.dll'. 
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\SysWOW64\WinTypes.dll'
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\d3d9.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igdumdim32.dll'. 
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igdumdim32.dll'
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igdumdim32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igd9dxva32.dll'. 
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igd9dxva32.dll'
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igd9dxva32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\setupapi.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\cfgmgr32.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\bcrypt.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_7d9521d2a48781c1\nvdlist.dll'. 
+'Projet Flipper.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\version.dll'. 
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\SysWOW64\version.dll'
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_7d9521d2a48781c1\nvdlist.dll'
+Le thread 0x42c4 s'est arrêté avec le code 0 (0x0).
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\SysWOW64\setupapi.dll'
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\SysWOW64\cfgmgr32.dll'
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igd9dxva32.dll'
+'Projet Flipper.exe' (Win32) : Déchargé 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igdumdim32.dll'
+Le thread 0x5f9c s'est arrêté avec le code 3221225786 (0xc000013a).
+Le thread 0x5c30 s'est arrêté avec le code 3221225786 (0xc000013a).
+Le thread 0x805c s'est arrêté avec le code 3221225786 (0xc000013a).
+Le thread 0x5d70 s'est arrêté avec le code 3221225786 (0xc000013a).
+Le thread 0x789c s'est arrêté avec le code 3221225786 (0xc000013a).
+Le thread 0x83e4 s'est arrêté avec le code 3221225786 (0xc000013a).
+Le thread 0x647c s'est arrêté avec le code 3221225786 (0xc000013a).
+Le thread 0x6d1c s'est arrêté avec le code 3221225786 (0xc000013a).
+Le programme '[31912] Projet Flipper.exe' s'est arrêté avec le code 3221225786 (0xc000013a).
